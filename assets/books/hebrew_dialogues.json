@@ -1,36 +1,1075 @@
 {
     "title": "Hebrew Dialogues",
-    "slug": "hebrew_dialogues",
-    "author": "Sawyer Moranville",
+    "slug": "dialogues",
     "language": "Hebrew",
-    "description": "Placeholder for Hebrew Dialogues",
+    "description": "A Beginners Hebrew Dialogue Book",
     "chapters": [
-        {
-            "slug": "chapter-1",
-            "title": {
-                "display": "פֶּרֶק א: אֶרֶץ יִשְׂרָאֵל",
-                "gloss": "Chapter 1: The land of Israel"
-            },
-            "titleImage": "mountain_city_river.png",
-            "content": [
-                {
-                    "paragraph": [
-                        {
-                            "verse_id": 1,
-                            "words": [
-                                {
-                                    "word": "יְרוּשָׁלַ֫יִם",
-                                    "gloss": "Jerusalem"
-                                },
-                                {
-                                    "word": "עִיר",
-                                    "gloss": "city"
-                                }
-                            ]
-                        }
-                    ]
-                }
+      {
+        "slug": "chapter-1",
+        "title": {
+          "display": "Yesterday Now Tomorrow",
+          "gloss": ""
+        },
+        "titleImage": "",
+        "content": [
+          {
+            "subtitle": "אֶתְמֹול עַתָּה וּמָחָר",
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "אֶתְמֹול",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הָלַכְתִּי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־הָרְחוֹב",
+                    "gloss": ""
+                  }
+                ]
+              }
             ]
-        }
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עַתָּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲנִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הוֹלֵךְ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־הָרְחוֹב",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "מָחָר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֵלֵךְ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־הָרְחוֹב",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "אֶתְמֹול",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הָלַכְתִּי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־בֵּית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הָסֵּפֶר",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עַתָּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲנִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הוֹלֵךְ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־בֵּית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הָסֵּפֶר",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "מָחָר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֵלֵךְ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־בֵּית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הָסֵּפֶר",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "אֶתְמֹול",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הָלַכְתִּי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־בֵּית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יְהוָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עַתָּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲנִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הוֹלֵךְ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־בֵּית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יְהוָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "מָחָר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֵלֵךְ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־בֵּית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יְהוָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "אֶתְמֹול",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "דִּבַּרְתִּי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עִבְרִית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עִם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "רֵעַי",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עַתָּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲנִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "מְדַבֵּר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עִבְרִית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עִם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "רֵעַי",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "מָחָר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲדַבֵּר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עִבְרִית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עִם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "רֵעַי",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "אֶתְמֹול",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "קָרָאתִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶת",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַתּוֹרָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עַתָּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲנִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "קוֹרֵא",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶת",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַתּוֹרָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "מָחָר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶקְרָא",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶת",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַתּוֹרָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "אֶתְמֹול",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הָגִיתִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בַתּוֹרָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עַתָּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲנִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הוֹגֶה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בַתּוֹרָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "מָחָר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶהְגֶּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בַתּוֹרָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "וְעַד",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "מוֹתִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶהְגֶּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בַתּוֹרָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "אֶתְמֹול",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עָבַדְתִּי",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עַתָּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲנִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עוֹבֵד",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "מָחָר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶעֱבֹד",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "וּבַשַּׁבָּת",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אָנוּחַ",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "chapter-2",
+        "title": {
+          "display": "Morning Now Tonight",
+          "gloss": ""
+        },
+        "titleImage": "",
+        "content": [
+          {
+            "subtitle": "בַּבֹּקֶר הַזֶּה עַתָּה וְהַלַּיְלָה הַזֶּה",
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "בַּבֹּקֶר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַזֶּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הָלַכְתִּי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־הָרְחוֹב",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עַתָּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲנִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הוֹלֵךְ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־הָרְחוֹב",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "הַלַּיְלָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֵלֵךְ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־הָרְחוֹב",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "בַּבֹּקֶר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַזֶּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הָלַכְתִּי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־בֵּית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הָסֵּפֶר",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עַתָּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲנִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הוֹלֵךְ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־בֵּית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הָסֵּפֶר",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "הַלַּיְלָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֵלֵךְ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־בֵּית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הָסֵּפֶר",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "בַּבֹּקֶר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַזֶּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הָלַכְתִּי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־בֵּית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יְהוָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עַתָּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲנִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הוֹלֵךְ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־בֵּית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יְהוָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "הַלַּיְלָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֵלֵךְ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־בֵּית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יְהוָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "בַּבֹּקֶר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַזֶּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "דִּבַּרְתִּי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עִבְרִית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עִם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "רֵעַי",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עַתָּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲנִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "מְדַבֵּר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עִבְרִית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עִם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "רֵעַי",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "הַלַּיְלָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲדַבֵּר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עִבְרִית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עִם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "רֵעַי",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "בַּבֹּקֶר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַזֶּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "קָרָאתִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶת",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַתּוֹרָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עַתָּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲנִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "קוֹרֵא",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶת",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַתּוֹרָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "הַלַּיְלָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶקְרָא",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶת",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַתּוֹרָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "בַּבֹּקֶר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַזֶּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הָגִיתִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בַתּוֹרָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עַתָּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲנִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הוֹגֶה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בַתּוֹרָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "הַלַּיְלָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶהְגֶּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בַתּוֹרָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     ]
-}
+  }
