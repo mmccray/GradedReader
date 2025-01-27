@@ -1,0 +1,1137 @@
+{
+    "title": "Hebrew Prayer",
+    "slug": "hebrew_prayer",
+    "language": "Hebrew",
+    "description": "A Beginners Hebrew Prayer Book",
+    "chapters": [
+      {
+        "slug": "chapter-1",
+        "title": {
+          "display": "Before Reading",
+          "gloss": ""
+        },
+        "titleImage": "",
+        "content": [
+          {
+            "subtitle": "לִפְנֵי קְרִיאָה",
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "אֲדֹנָי,",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "תֵּן",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בִינָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "לַמְּדֵנִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶת",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לְשׁוֹן",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַקֹּדֶשׁ",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "כִּי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶקְרָא",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בִדְבָרֶךָ",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "כִּי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אָבִין",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "תֵּן",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אַהֲבַת",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "דְּבָרֶךָ",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "נְחֵנִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בַּדֶּרֶךְ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לְבִלְתִּי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶשְׁגֶּה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "בָּרֵךְ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶת",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "קְרִיאָתִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בִּדְבָרֶךָ",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "בְּשֵׁם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַמָּשִׁיחַ",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "אָמֵן",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "chapter-2",
+        "title": {
+          "display": "The Lords Prayer",
+          "gloss": ""
+        },
+        "titleImage": "",
+        "content": [
+          {
+            "subtitle": "הַתְפִלָּה שֶׁל הָאָדוֹן",
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "אָבִינוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "שֶׁבַּשָּׁמַיִם",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "יִתְקַדֵּשׁ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "שִׁמְךָ",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "תָּבוֹא",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "מַלְכוּתֶךָ",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "יֵעָשֶׂה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "רְצוֹנְךָ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "כְּבַשָּׁמַיִם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "כֵּן",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בָּאָרֶץ",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "אֶת",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לַחְמֵנוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "תְּנוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לָנוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַיּוֹם",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "וּמְחַל",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לָנוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עַל",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "חוֹבוֹתֵינוּ,",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "כְּמוֹ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "שֶׁאֲנַחְנוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "מוֹחֲלִים",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לְחַיָּבֵינוּ",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "וְאַל",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "תְּבִיאֵנוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לִידֵי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "נִסָּיוֹן",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "אֲבָל",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "חַלְּצֵנוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "מִן",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הָרָע",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "chapter-3",
+        "title": {
+          "display": "Psalm 117",
+          "gloss": ""
+        },
+        "titleImage": "",
+        "content": [
+          {
+            "subtitle": "תְּהִלִּים קי\"ז",
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "הַלְלוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶת־יְהוָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "כָּל־גּוֹיִם",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "שַׁבְּחוּהוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "כָּל־הָאֻמִּים׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "כִּי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "גָבַר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עָלֵינוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "חַסְדּוֹ",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "וֶאֱמֶת־יְהוָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לְעוֹלָם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַלְלוּ־יָהּ׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "chapter-4",
+        "title": {
+          "display": "Psalm 100",
+          "gloss": ""
+        },
+        "titleImage": "",
+        "content": [
+          {
+            "subtitle": "תְּהִלִּים ק",
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "מִזְמוֹר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לְתוֹדָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "הָרִיעוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לַיהוָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "כָּל־הָאָרֶץ׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עִבְדוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶת־יְהוָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בְּשִׂמְחָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "בֹּאוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לְפָנָיו",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בִּרְנָנָה׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "דְּעוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "כִּי־יְהוָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הוּא",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֱלֹהִים",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "הוּא־עָשָׂנוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "וְלוֹ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֲנַחְנוּ",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עַמּוֹ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "וְצֹאן",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "מַרְעִיתוֹ׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "בֹּאוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "שְׁעָרָיו",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בְּתוֹדָה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "חֲצֵרֹתָיו",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בִּתְהִלָּה",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "הוֹדוּ־לוֹ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בָּרְכוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "שְׁמוֹ׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "כִּי־טוֹב",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יְהוָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לְעוֹלָם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "חַסְדּוֹ",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "וְעַד־דּוֹר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "וָדוֹר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֱמוּנָתוֹ׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "chapter-5",
+        "title": {
+          "display": "Psalm 121 - A Song of Ascents",
+          "gloss": ""
+        },
+        "titleImage": "",
+        "content": [
+          {
+            "subtitle": "שִׁיר הַמַּעֲלוֹת",
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "אֶשָּׂא",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עֵינַי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶל־הֶהָרִים",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "מֵאַיִן",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יָבֹא",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עֶזְרִי׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "עֶזְרִי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "מֵעִם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יְהוָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עֹשֵׂה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "שָׁמַיִם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "וָאָרֶץ׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "אַל־יִתֵּן",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לַמּוֹט",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "רַגְלֶךָ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אַל־יָשֵׁן",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "שֹׁמְרֶךָ׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "הִנֵּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לֹא־יָנוּם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "וְלֹא",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יִישָׁן",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "שֹׁמֵר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יִשְׂרָאֵל׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "יְהוָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "שֹׁמְרֶךָ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יְהוָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "צִלְּךָ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עַל־יַד",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יְמִינֶךָ׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "יוֹמָם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "הַשֶּׁמֶשׁ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "לֹא־יַכֶּךָ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "וְיָרֵחַ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בַּלָּיְלָה׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "יְהוָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יִשְׁמָרְךָ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "מִכָּל־רָע",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יִשְׁמֹר",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶת־נַפְשֶׁךָ׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "יְהוָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יִשְׁמָר־צֵאתְךָ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "וּבוֹאֶךָ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "מֵעַתָּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "וְעַד־עוֹלָם׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "chapter-6",
+        "title": {
+          "display": "Psalm 134 - A Song of Ascents",
+          "gloss": ""
+        },
+        "titleImage": "",
+        "content": [
+          {
+            "subtitle": "שִׁיר הַמַּעֲלוֹת",
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "הִנֵּה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בָּרְכוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶת־יְהוָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "כָּל־עַבְדֵי",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יְהוָההָעֹמְדִים",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בְּבֵית",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יְהוָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "בַּלֵּילוֹת׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "paragraph": [
+              {
+                "verse_id": 1,
+                "words": [
+                  {
+                    "word": "שְׂאוּ־יְדֵיכֶם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "קֹדֶשׁ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "וּבָרְכוּ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "אֶת־יְהוָה׃יְבָרֶכְךָ",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "יְהוָה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "מִצִּיּוֹן",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "עֹשֵׂה",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "שָׁמַיִם",
+                    "gloss": ""
+                  },
+                  {
+                    "word": "וָאָרֶץ׃",
+                    "gloss": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

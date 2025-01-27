@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "slug": "beit_av",
+    "title": "Beit Av",
+    "author": "Sawyer Moranville",
+    "language": "Hebrew",
+    "description": "Sawyers Hebrew reader"
+  },
+  {
+    "id": "2",
+    "slug": "athenaze",
+    "title": "Athenaze",
+    "author": "IDK",
+    "language": "Greek",
+    "description": "Athenaze test for Greek"
+  },
+  {
+    "id": "3",
+    "slug": "linguae_graecae",
+    "title": "Linguae Graecae Per Se Illustrata",
+    "author": "Seumas Macdonald (with much help)",
+    "language": "Greek",
+    "description": "LGPSI is an open-ended collaborative project to develop sets of graded reading that guide learners from the beginning to a reading proficiency in ancient Greek (initially Koine, eventually expanding into Attic, Homer, and Byzantine)"
+  },
+  {
+    "id": "4",
+    "slug": "hebrew_dialogues",
+    "title": "Hebrew Dialogues",
+    "author": "Sawyer Moranville",
+    "language": "Hebrew",
+    "description": "Placeholder for Hebrew Dialogues"
+  },
+  {
+    "id": "5",
+    "title": "Hebrew Prayer",
+    "slug": "hebrew_prayer",
+    "author":"GOD",
+    "language": "Hebrew",
+    "description": "A Beginners Hebrew Prayer Book"
+  }
+]

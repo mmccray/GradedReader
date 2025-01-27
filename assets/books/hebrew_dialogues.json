@@ -1,0 +1,36 @@
+{
+    "title": "Hebrew Dialogues",
+    "slug": "hebrew_dialogues",
+    "author": "Sawyer Moranville",
+    "language": "Hebrew",
+    "description": "Placeholder for Hebrew Dialogues",
+    "chapters": [
+        {
+            "slug": "chapter-1",
+            "title": {
+                "display": "פֶּרֶק א: אֶרֶץ יִשְׂרָאֵל",
+                "gloss": "Chapter 1: The land of Israel"
+            },
+            "titleImage": "mountain_city_river.png",
+            "content": [
+                {
+                    "paragraph": [
+                        {
+                            "verse_id": 1,
+                            "words": [
+                                {
+                                    "word": "יְרוּשָׁלַ֫יִם",
+                                    "gloss": "Jerusalem"
+                                },
+                                {
+                                    "word": "עִיר",
+                                    "gloss": "city"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
