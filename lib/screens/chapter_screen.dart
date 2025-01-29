@@ -170,8 +170,8 @@ class _ChapterScreenState extends State<ChapterScreen> {
             ),
             if (hoveredWord != null && tooltipPosition != null)
               Positioned(
-                top: tooltipPosition!.dy - 100,
-                left: tooltipPosition!.dx.clamp(
+                top: tooltipPosition!.dy - 200,
+                left: (tooltipPosition!.dx - 75).clamp(
                   0,
                   MediaQuery.of(context).size.width - 150,
                 ),

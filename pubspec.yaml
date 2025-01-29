@@ -1,5 +1,5 @@
 name: graded_reader
-description: "A new Flutter project."
+description: "For all those who aspire to read God's word in its original language, this app is designed to take you from simple reading and vocabulary comprehension to praying, conversing, and reading God's word."
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
@@ -19,6 +19,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  flutter_launcher_icons: ^0.10.0
+
   flutter_lints: ^5.0.0
 
 flutter:
@@ -34,3 +36,7 @@ flutter:
     - family: SBLBibLit
       fonts:
         - asset: assets/fonts/SBL_BLit.ttf
+
+flutter_icons:
+  ios: true
+  image_path: "assets/images/graded_reader_icon.png"
