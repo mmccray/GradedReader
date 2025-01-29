@@ -1,15 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:graded_reader/screens/chapter_screen.dart';
-import 'package:graded_reader/screens/compre_screen.dart';
+import 'package:graded_reader/screens/comprehension_screen.dart';
 import 'package:graded_reader/screens/vocab_screen.dart';
 
 class LessonScreen extends StatefulWidget {
   final String chapterSlug;
+  final String bookTitle;
 
   const LessonScreen({
-    Key? key,
+    super.key,
     required this.chapterSlug,
-  }) : super(key: key);
+    required this.bookTitle,
+  });
 
   @override
   _LessonScreenState createState() => _LessonScreenState();
@@ -36,7 +38,7 @@ class _LessonScreenState extends State<LessonScreen>
     return Scaffold(
       extendBody: true,
       appBar: AppBar(
-        title: Text(widget.chapterSlug),
+        title: Text(widget.bookTitle),
       ),
       body: Column(
         children: [
@@ -44,7 +46,6 @@ class _LessonScreenState extends State<LessonScreen>
             child: TabBarView(
               controller: _tabController,
               children: [
-                // Pass the callback to VocabScreen
                 VocabScreen(chapterSlug: widget.chapterSlug),
                 ChapterScreen(chapterSlug: widget.chapterSlug),
                 ComprehensionScreen(chapterSlug: widget.chapterSlug),

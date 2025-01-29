@@ -39,6 +39,7 @@ class BookScreen extends StatelessWidget {
       ),
       body: SafeArea(
         child: ListView.builder(
+          padding: EdgeInsets.only(left: 20, right: 20),
           itemCount: book.chapters.length,
           itemBuilder: (context, index) {
             final chapter = book.chapters[index];
@@ -46,7 +47,7 @@ class BookScreen extends StatelessWidget {
               title: Text(
                 chapter.displayTitle,
                 textAlign: book.language == 'Hebrew' ? TextAlign.right : TextAlign.left,
-                style: TextStyle(fontSize: 26, fontWeight: FontWeight.w200),
+                style: TextStyle(fontSize: 24, fontWeight: FontWeight.w200, fontFamily: "SBLBibLit"),
               ),
               trailing: Icon(Icons.arrow_forward_ios, color: Colors.grey), // Arrow to show it's clickable
               
@@ -54,7 +55,7 @@ class BookScreen extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(
-                    builder: (context) => LessonScreen(chapterSlug: chapter.slug),
+                    builder: (context) => LessonScreen(chapterSlug: chapter.slug, bookTitle: book.title,),
                   ),
                 );
               },

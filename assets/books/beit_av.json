@@ -14,6 +14,11 @@
       "titleImage": "mountain_city_river.png",
       "vocab": [
         {
+          "image": "assets/images/beit_av/beautiful_city.png",
+          "word": "עִיר",
+          "gloss": "City"
+        },
+        {
           "image": "assets/images/beit_av/mountain.png",
           "word": "הָר",
           "gloss": "Mountain"
@@ -22,6 +27,11 @@
           "image": "assets/images/beit_av/river.png",
           "word": "נָהָר",
           "gloss": "River"
+        },
+        {
+          "image": "assets/images/beit_av/big_small_river.png",
+          "word": "גָּדוֹל - קָטֹן",
+          "gloss": "Small - Big"
         }
       ],
       "questions": [
@@ -620,7 +630,7 @@
               ]
             }
           ],
-          "image": "crazy_celestial.png"
+          "image": "beit_av/big_small_city.png"
         },
         {
           "paragraph": [
@@ -1039,7 +1049,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "image": "beit_av/big_small_river.png"
         },
         {
           "paragraph": [
@@ -1618,7 +1629,11 @@
                   "gloss": "maidens"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "paragraph": [
             {
               "verse_id": 15,
               "words": [
@@ -2467,7 +2482,11 @@
                   "gloss": "daughters of Boaz"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "paragraph": [
             {
               "verse_id": 72,
               "words": [
@@ -2725,7 +2744,11 @@
                   "gloss": "One who finds favor"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "paragraph": [
             {
               "verse_id": 86,
               "words": [
@@ -2771,7 +2794,11 @@
                   "gloss": "good"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "paragraph": [
             {
               "verse_id": 88,
               "words": [
@@ -2981,7 +3008,11 @@
                   "gloss": "fields of Bethlehem"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "paragraph": [
             {
               "verse_id": 102,
               "words": [
@@ -3200,7 +3231,7 @@
                   "gloss": "fool, foolish, wicked"
                 },
                 {
-                  "word": "בֵּית־בֹּעַז",
+                  "word": "״בֵּית־בֹּעַז",
                   "gloss": "House of Boaz"
                 },
                 {
@@ -3217,7 +3248,7 @@
                   "gloss": "father's house"
                 },
                 {
-                  "word": "גָדוֹל׃",
+                  "word": "גָדוֹל׃״",
                   "gloss": "great, big"
                 }
               ]
@@ -3225,10 +3256,6 @@
             {
               "verse_id": 114,
               "words": [
-                {
-                  "word": "״",
-                  "gloss": "silence"
-                },
                 {
                   "word": "נָבָל",
                   "gloss": "foolish, wicked, disgraceful"

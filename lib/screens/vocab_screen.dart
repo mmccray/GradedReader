@@ -81,6 +81,7 @@ class VocabCard extends StatelessWidget {
               Image(
                 image: AssetImage('$image'),
                 fit: BoxFit.contain,
+                
               ),
 
             if (image != null) SizedBox(height: 8),
