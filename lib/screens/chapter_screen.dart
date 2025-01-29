@@ -33,7 +33,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
     });
   }
 
-  Widget buildWord(Word word, int index, int length, String verseEnding) {
+  Widget buildWord(Word word, int index, int length) {
     
     return GestureDetector(
       onTapDown: (details) => handleWordTap(word, details),
@@ -42,7 +42,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 4),
         child: Text(
-          '${word.word}${index == length - 1 ? verseEnding : ''}',
+          word.word,
           style: const TextStyle(
             fontSize: 22,
             fontFamily: 'SBLBibLit',
@@ -59,7 +59,6 @@ class _ChapterScreenState extends State<ChapterScreen> {
     final chapter = appState.getChapter(widget.chapterSlug);
 
     String language = appState.selectedBook?.language ?? '';
-    String verseEnding = language == 'Hebrew' ? '׃' : '.';
 
     if (appState.isLoading) {
       return const Center(child: CircularProgressIndicator());
@@ -156,7 +155,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
                                 children: paragraph.paragraph.expand((verse) {
                                   return verse.words.asMap().entries.map((entry) {
                                     return buildWord(entry.value, entry.key,
-                                        verse.words.length, verseEnding);
+                                        verse.words.length);
                                   });
                                 }).toList(),
                               ),
