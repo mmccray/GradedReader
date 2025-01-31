@@ -18,7 +18,7 @@ class BookService {
 
   Future<Book> loadBookContent(String bookSlug, List<BookDetail> books) async {
     try {
-      final String jsonString = await rootBundle.loadString('assets/books/${bookSlug}.json');
+      final String jsonString = await rootBundle.loadString('assets/books/$bookSlug.json');
       final Map<String, dynamic> jsonData = json.decode(jsonString);
       
       var bookDetail = books.firstWhere((book) => book.slug == bookSlug);

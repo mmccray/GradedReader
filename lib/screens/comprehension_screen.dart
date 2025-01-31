@@ -7,9 +7,9 @@ class ComprehensionScreen extends StatefulWidget {
   final String chapterSlug;
 
   const ComprehensionScreen({
-    Key? key,
+    super.key,
     required this.chapterSlug,
-  }) : super(key: key);
+  });
 
   @override
   State<ComprehensionScreen> createState() => _ComprehensionScreenState();
@@ -96,7 +96,7 @@ class _ComprehensionScreenState extends State<ComprehensionScreen> {
 
     return Scaffold(
       body: SafeArea(
-        child: Container(
+        child: SizedBox(
           width: MediaQuery.of(context).size.width,
           height: MediaQuery.of(context).size.height,
           child: Stack(

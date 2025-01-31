@@ -6,9 +6,9 @@ class VocabScreen extends StatefulWidget {
   final String chapterSlug;
 
   const VocabScreen({
-    Key? key,
+    super.key,
     required this.chapterSlug,
-  }) : super(key: key);
+  });
 
   @override
   State<VocabScreen> createState() => _VocabScreenState();
@@ -62,11 +62,11 @@ class VocabCard extends StatelessWidget {
   final String gloss;
 
   const VocabCard({
-    Key? key,
+    super.key,
     this.image,
     required this.word,
     required this.gloss,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {

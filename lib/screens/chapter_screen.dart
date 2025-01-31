@@ -112,7 +112,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
                   ...chapter.content.map((paragraph) {
                     return Padding(
                       padding: const EdgeInsets.only(bottom: 15),
-                      child: Container(
+                      child: SizedBox(
                         width: double.infinity,
                         child: Column(
                           crossAxisAlignment: language == 'Hebrew' ? CrossAxisAlignment.end : CrossAxisAlignment.start, 
